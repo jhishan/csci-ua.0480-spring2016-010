@@ -53,7 +53,7 @@ The solutions to the following problems can go in the same file - __exercises-ch
 Solve the problem, __Flattening__, on page 102 of {{ site.book_js }}.
 
 * print out the result of running your code on the following array <code>[[2, 4, 6], [8], [10, 12]]</code>
-* See the docs on the <code>concat</code> array method [here](ttps://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat) or on page 76 of {{ site.book_js }}
+* See the docs on the <code>concat</code> array method [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat) or on page 76 of {{ site.book_js }}
 
 
 ### (4 points) Every and Then Some
